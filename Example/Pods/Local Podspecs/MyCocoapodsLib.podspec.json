@@ -1,0 +1,27 @@
+{
+  "name": "MyCocoapodsLib",
+  "version": "0.1.0",
+  "summary": "This for testing MyCocoapodsLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kunalword/MyCocoapodsLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kunalword": "kunalword@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/kunalword/MyCocoapodsLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyCocoapodsLib/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "MyCocoapodsLib/Assets/download.jpg"
+    ]
+  }
+}
